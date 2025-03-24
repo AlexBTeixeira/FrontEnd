@@ -1,4 +1,3 @@
-```json
 {
   "users": [
     {
@@ -342,76 +341,6 @@
       "email": "comment10@example.com",
       "body": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Comment 10 body."
     },
-    {
-      "photoId": 11,
-      "id": 11,
-      "name": "Lorem ipsum comment 11",
-      "email": "comment11@example.com",
-      "body": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Comment 11 body."
-    },
-    {
-      "photoId": 12,
-      "id": 12,
-      "name": "Lorem ipsum comment 12",
-      "email": "comment12@example.com",
-      "body": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Comment 12 body."
-    },
-    {
-      "photoId": 13,
-      "id": 13,
-      "name": "Lorem ipsum comment 13",
-      "email": "comment13@example.com",
-      "body": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Comment 13 body."
-    },
-    {
-      "photoId": 14,
-      "id": 14,
-      "name": "Lorem ipsum comment 14",
-      "email": "comment14@example.com",
-      "body": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Comment 14 body."
-    },
-    {
-      "photoId": 15,
-      "id": 15,
-      "name": "Lorem ipsum comment 15",
-      "email": "comment15@example.com",
-      "body": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Comment 15 body."
-    },
-    {
-      "photoId": 16,
-      "id": 16,
-      "name": "Lorem ipsum comment 16",
-      "email": "comment16@example.com",
-      "body": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Comment 16 body."
-    },
-    {
-      "photoId": 17,
-      "id": 17,
-      "name": "Lorem ipsum comment 17",
-      "email": "comment17@example.com",
-      "body": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Comment 17 body."
-    },
-    {
-      "photoId": 18,
-      "id": 18,
-      "name": "Lorem ipsum comment 18",
-      "email": "comment18@example.com",
-      "body": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Comment 18 body."
-    },
-    {
-      "photoId": 19,
-      "id": 19,
-      "name": "Lorem ipsum comment 19",
-      "email": "comment19@example.com",
-      "body": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Comment 19 body."
-    },
-    {
-      "photoId": 20,
-      "id": 20,
-      "name": "Lorem ipsum comment 20",
-      "email": "comment20@example.com",
-      "body": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Comment 20 body."
-    }
   ]
 }
 ```
