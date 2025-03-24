@@ -138,8 +138,7 @@
       "title": "Lorem ipsum photo 5",
       "url": "https://raw.githubusercontent.com/AlexBTeixeira/FrontEnd/refs/heads/main/Images/5.jpg",
       "thumbnailUrl": "https://raw.githubusercontent.com/AlexBTeixeira/FrontEnd/refs/heads/main/Images/5.jpg"
-    },
-    {
+    }
 
   ],
   "comments": [
@@ -352,6 +351,6 @@
       "name": "Lorem ipsum comment 30",
       "email": "comment30@example.com",
       "body": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Comment 30 body."
-    },
+    }
   ]
 }
