@@ -198,20 +198,6 @@
       "title": "Lorem ipsum photo 20",
       "url": "https://raw.githubusercontent.com/AlexBTeixeira/FrontEnd/refs/heads/main/Images/20.jpg",
       "thumbnailUrl": "https://raw.githubusercontent.com/AlexBTeixeira/FrontEnd/refs/heads/main/Images/20.jpg"
-    },
-    {
-      "albumId": 4,
-      "id": 21,
-      "title": "Lorem ipsum photo 21",
-      "url": "https://raw.githubusercontent.com/AlexBTeixeira/FrontEnd/refs/heads/main/Images/21.jpg",
-      "thumbnailUrl": "https://raw.githubusercontent.com/AlexBTeixeira/FrontEnd/refs/heads/main/Images/21.jpg"
-    },
-    {
-      "albumId": 4,
-      "id": 22,
-      "title": "Lorem ipsum photo 22",
-      "url": "https://raw.githubusercontent.com/AlexBTeixeira/FrontEnd/refs/heads/main/Images/22.jpg",
-      "thumbnailUrl": "https://raw.githubusercontent.com/AlexBTeixeira/FrontEnd/refs/heads/main/Images/22.jpg"
     }
   ],
   "comments": [
