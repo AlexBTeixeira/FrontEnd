@@ -219,13 +219,6 @@
       "title": "Lorem ipsum photo 23",
       "url": "https://raw.githubusercontent.com/AlexBTeixeira/FrontEnd/refs/heads/main/Images/23.jpg",
       "thumbnailUrl": "https://raw.githubusercontent.com/AlexBTeixeira/FrontEnd/refs/heads/main/Images/23.jpg"
-    },
-    {
-      "albumId": 4,
-      "id": 24,
-      "title": "Lorem ipsum photo 24",
-      "url": "https://raw.githubusercontent.com/AlexBTeixeira/FrontEnd/refs/heads/main/Images/24.jpg",
-      "thumbnailUrl": "https://raw.githubusercontent.com/AlexBTeixeira/FrontEnd/refs/heads/main/Images/24.jpg"
     }
   ],
   "comments": [
