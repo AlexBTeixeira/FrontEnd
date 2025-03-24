@@ -241,71 +241,70 @@
       "id": 1,
       "name": "Lorem ipsum comment 1",
       "email": "comment1@example.com",
-      "body": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Comment 1 body."
+      "body": "Lorem ipsum dolor sit amet, consectetur adipiscing elit."
     },
     {
       "photoId": 2,
       "id": 2,
       "name": "Lorem ipsum comment 2",
       "email": "comment2@example.com",
-      "body": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Comment 2 body."
+      "body": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. "
     },
     {
       "photoId": 3,
       "id": 3,
       "name": "Lorem ipsum comment 3",
       "email": "comment3@example.com",
-      "body": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Comment 3 body."
+      "body": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. "
     },
     {
       "photoId": 4,
       "id": 4,
       "name": "Lorem ipsum comment 4",
       "email": "comment4@example.com",
-      "body": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Comment 4 body."
+      "body": "Lorem ipsum dolor sit amet, consectetur adipiscing elit."
     },
     {
       "photoId": 5,
       "id": 5,
       "name": "Lorem ipsum comment 5",
       "email": "comment5@example.com",
-      "body": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Comment 5 body."
+      "body": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. "
     },
     {
       "photoId": 6,
       "id": 6,
       "name": "Lorem ipsum comment 6",
       "email": "comment6@example.com",
-      "body": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Comment 6 body."
+      "body": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. "
     },
     {
       "photoId": 7,
       "id": 7,
       "name": "Lorem ipsum comment 7",
       "email": "comment7@example.com",
-      "body": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Comment 7 body."
+      "body": "Lorem ipsum dolor sit amet, consectetur adipiscing elit."
     },
     {
       "photoId": 8,
       "id": 8,
       "name": "Lorem ipsum comment 8",
       "email": "comment8@example.com",
-      "body": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Comment 8 body."
+      "body": "Lorem ipsum dolor sit amet, consectetur adipiscing elit."
     },
     {
       "photoId": 9,
       "id": 9,
       "name": "Lorem ipsum comment 9",
       "email": "comment9@example.com",
-      "body": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Comment 9 body."
+      "body": "Lorem ipsum dolor sit amet, consectetur adipiscing elit."
     },
     {
       "photoId": 10,
       "id": 10,
       "name": "Lorem ipsum comment 10",
       "email": "comment10@example.com",
-      "body": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Comment 10 body."
+      "body": "Lorem ipsum dolor sit amet, consectetur adipiscing elit."
     },
   ]
 }
-```
