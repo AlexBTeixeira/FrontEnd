@@ -371,55 +371,7 @@
       "url": "https://raw.githubusercontent.com/AlexBTeixeira/FrontEnd/refs/heads/main/Images/38.jpg",
       "thumbnailUrl": "https://raw.githubusercontent.com/AlexBTeixeira/FrontEnd/refs/heads/main/Images/38.jpg"
     },
-    {
-      "albumId": 8,
-      "id": 39,
-      "title": "Lorem ipsum photo 39",
-      "url": "https://raw.githubusercontent.com/AlexBTeixeira/FrontEnd/refs/heads/main/Images/39.jpg",
-      "thumbnailUrl": "https://raw.githubusercontent.com/AlexBTeixeira/FrontEnd/refs/heads/main/Images/39.jpg"
-    },
-    {
-      "albumId": 8,
-      "id": 40,
-      "title": "Lorem ipsum photo 40",
-      "url": "https://raw.githubusercontent.com/AlexBTeixeira/FrontEnd/refs/heads/main/Images/40.jpg",
-      "thumbnailUrl": "https://raw.githubusercontent.com/AlexBTeixeira/FrontEnd/refs/heads/main/Images/40.jpg"
-    },
-    {
-      "albumId": 10,
-      "id": 46,
-      "title": "Lorem ipsum photo 46",
-      "url": "https://raw.githubusercontent.com/AlexBTeixeira/FrontEnd/refs/heads/main/Images/46.jpg",
-      "thumbnailUrl": "https://raw.githubusercontent.com/AlexBTeixeira/FrontEnd/refs/heads/main/Images/46.jpg"
-    },
-    {
-      "albumId": 10,
-      "id": 47,
-      "title": "Lorem ipsum photo 47",
-      "url": "https://raw.githubusercontent.com/AlexBTeixeira/FrontEnd/refs/heads/main/Images/47.jpg",
-      "thumbnailUrl": "https://raw.githubusercontent.com/AlexBTeixeira/FrontEnd/refs/heads/main/Images/47.jpg"
-    },
-    {
-      "albumId": 10,
-      "id": 48,
-      "title": "Lorem ipsum photo 48",
-      "url": "https://raw.githubusercontent.com/AlexBTeixeira/FrontEnd/refs/heads/main/Images/48.jpg",
-      "thumbnailUrl": "https://raw.githubusercontent.com/AlexBTeixeira/FrontEnd/refs/heads/main/Images/48.jpg"
-    },
-    {
-      "albumId": 10,
-      "id": 49,
-      "title": "Lorem ipsum photo 49",
-      "url": "https://raw.githubusercontent.com/AlexBTeixeira/FrontEnd/refs/heads/main/Images/49.jpg",
-      "thumbnailUrl": "https://raw.githubusercontent.com/AlexBTeixeira/FrontEnd/refs/heads/main/Images/49.jpg"
-    },
-    {
-      "albumId": 10,
-      "id": 50,
-      "title": "Lorem ipsum photo 50",
-      "url": "https://raw.githubusercontent.com/AlexBTeixeira/FrontEnd/refs/heads/main/Images/40.jpg",
-      "thumbnailUrl": "https://raw.githubusercontent.com/AlexBTeixeira/FrontEnd/refs/heads/main/Images/40.jpg"
-    }
+
   ],
   "comments": [
     {
@@ -633,89 +585,7 @@
       "body": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Comment 30 body."
     },
     {
-      "postId": 7,
-      "id": 31,
-      "name": "Lorem ipsum comment 31",
-      "email": "comment31@example.com",
-      "body": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Comment 31 body."
-    },
-    {
-      "postId": 7,
-      "id": 32,
-      "name": "Lorem ipsum comment 32",
-      "email": "comment32@example.com",
-      "body": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Comment 32 body."
-    },
-    {
-      "postId": 7,
-      "id": 33,
-      "name": "Lorem ipsum comment 33",
-      "email": "comment33@example.com",
-      "body": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Comment 33 body."
-    },
-    {
-      "postId": 7,
-      "id": 34,
-      "name": "Lorem ipsum comment 34",
-      "email": "comment34@example.com",
-      "body": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Comment 34 body."
-    },
-    {
-      "postId": 7,
-      "id": 35,
-      "name": "Lorem ipsum comment 35",
-      "email": "comment35@example.com",
-      "body": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Comment 35 body."
-    },
-    {
-      "postId": 8,
-      "id": 36,
-      "name": "Lorem ipsum comment 36",
-      "email": "comment36@example.com",
-      "body": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Comment 36 body."
-    },
-    {
-      "postId": 8,
-      "id": 37,
-      "name": "Lorem ipsum comment 37",
-      "email": "comment37@example.com",
-      "body": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Comment 37 body."
-    },
-    {
-      "postId": 8,
-      "id": 38,
-      "name": "Lorem ipsum comment 38",
-      "email": "comment38@example.com",
-      "body": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Comment 38 body."
-    },
-    {
-      "postId": 8,
-      "id": 39,
-      "name": "Lorem ipsum comment 39",
-      "email": "comment39@example.com",
-      "body": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Comment 39 body."
-    },
-    {
-      "postId": 8,
-      "id": 40,
-      "name": "Lorem ipsum comment 40",
-      "email": "comment40@example.com",
-      "body": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Comment 40 body."
-    },
-    {
-      "postId": 9,
-      "id": 41,
-      "name": "Lorem ipsum comment 41",
-      "email": "comment41@example.com",
-      "body": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Comment 41 body."
-    },
-    {
-      "postId": 9,
-      "id": 42,
-      "name": "Lorem ipsum comment 42",
-      "email": "comment42@example.com",
-      "body": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Comment 42 body."
-    },
+
 
   ]
 }
