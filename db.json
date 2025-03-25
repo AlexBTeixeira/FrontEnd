@@ -6,8 +6,8 @@
       "username": "lipsum",
       "email": "lipsum@example.com",
       "geo": {
-        "lat": "45.4215",
-        "lng": "75.6972"
+        "lat": "-19.91626",
+        "lng": "-43.94174"
       }
     },
     {
@@ -16,8 +16,8 @@
       "username": "dolorsit",
       "email": "dolorsit@example.com",
       "geo": {
-        "lat": "1.2921",
-        "lng": "36.8219"
+        "lat": "53.35183",
+        "lng": "-6.26982"
       }
     },
     {
@@ -26,8 +26,8 @@
       "username": "consecadip",
       "email": "consec@example.com",
       "geo": {
-        "lat": "13.7563",
-        "lng": "100.5018"
+        "lat": "-36.85176",
+        "lng": "174.75295"
       }
     }
   ],
